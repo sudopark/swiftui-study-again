@@ -14,6 +14,7 @@ struct Landmark {
     var park: String
     var state: String
     var description: String
+    var isFavorite:Bool = false
     
     var coordinate: (latt: Double, long: Double)
     

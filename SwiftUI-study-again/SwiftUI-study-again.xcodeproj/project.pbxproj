@@ -25,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F67DCF1027B2C75B00953014 /* Session3.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Session3.md; sourceTree = "<group>"; };
 		F684435B27A7040B009C323F /* swiftui-study-again.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-study-again.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F684435E27A7040B009C323F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F684436027A7040B009C323F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +58,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F67DCF0F27B170AA00953014 /* Session3-user-input */ = {
+			isa = PBXGroup;
+			children = (
+				F67DCF1027B2C75B00953014 /* Session3.md */,
+			);
+			path = "Session3-user-input";
+			sourceTree = "<group>";
+		};
 		F684435227A7040B009C323F = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +87,7 @@
 			children = (
 				F684437227A70412009C323F /* session1-landmarks */,
 				F6A0B15727AD73F700FD83F1 /* session2-list+navigation */,
+				F67DCF0F27B170AA00953014 /* Session3-user-input */,
 				F684435E27A7040B009C323F /* AppDelegate.swift */,
 				F684436027A7040B009C323F /* SceneDelegate.swift */,
 				F684436227A7040B009C323F /* ViewController.swift */,
